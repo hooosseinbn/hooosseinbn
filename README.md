@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hooosseinbn" alt="hooosseinbn" /></a> </p>
 
-- 🔭 I’m currently working on [Hami team](www.hamiteam.com)
+- 🔭 I’m currently working on [www.hamiteam.com](www.hamiteam.com)
 
 - 🌱 I’m currently learning **Laravel, Solidity, LPIC3**
 
