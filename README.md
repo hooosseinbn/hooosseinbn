@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hooosseinbn&label=Profile%20views&color=0e75b6&style=flat" alt="hooosseinbn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hooosseinbn" alt="hooosseinbn" /></a> </p>
 
 - 🔭 I’m currently working on [www.hamiteam.com](www.hamiteam.com)
 
