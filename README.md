@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hossein-bn.netlify.app/](https://hossein-bn.netlify.app/)
 
-- 📝 I regularly write articles on [https://hossein-bn.netlify.app/blog/](https://hossein-bn.netlify.app/blog/)
+- 📝 I regularly write articles on (I'm not sure.) [https://hossein-bn.netlify.app/blog/](https://hossein-bn.netlify.app/blog/)
 
 - 💬 Ask me about **Ethical hacking, React, Gatsby, Django, LPIC1, NextJS**
 
